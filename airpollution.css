@@ -1,0 +1,47 @@
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+  h1 {
+  color
+     }
+
+
+body {
+  background-color: light-blue;
+}
+#pic {
+float: right; /* Обтекание картинки текстом */
+}
+a{
+	padding: 10px 10px;/* отступы от текста до краев */
+	text-decoration: none;/* убираем декорирование */
+	-moz-appearance: button; /* преобразование для Firefox */
+	-webkit-appearance: button; /* преобразование для Chromium */
+}
+.welcome{
+  background-color: #cbdff8
+}
+.project{
+  background-color: #cbdff8
+}
+.smog{
+    background-color: #cbdff8
+}
+.first{
+  background-color: #cbdff8
+}
+.second{
+  background-color:#d8e7fa
+}
+#pic {
+ float:right; /* Обтекание картинки текстом */
+}
+#text {
+ margin-left: 110px; /* Отступ от левого края */
+ font-size: 20px;
+ padding-left: 280px;
+}
